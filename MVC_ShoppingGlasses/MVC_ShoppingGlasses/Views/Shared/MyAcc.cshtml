@@ -1,0 +1,29 @@
+﻿@model MVC_ShoppingGlasses.Models.Customer
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/Style.css")
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Merriweather:300,400,400i|Noto+Sans:400,400i,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<div id="acc">
+    @if (Model == null)
+    {
+        <ul class="nav navbar-nav navbar-right">
+            <li><a id="LOGIN" onclick="location.href='@Url.Action("Login","Account")'"><span class="glyphicon glyphicon-log-in"></span> Đăng Nhập </a></li>
+        </ul>
+    }
+    else
+    {
+        <ul class="nav navbar-nav navbar-right">
+            <li><a style="color:white"> @Model.Name <span class="glyphicon glyphicon-user"></span></a> </li>
+        </ul>
+    }
+
+</div>

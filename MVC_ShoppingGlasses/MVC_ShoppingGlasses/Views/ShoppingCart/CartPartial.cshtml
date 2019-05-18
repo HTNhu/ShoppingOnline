@@ -1,0 +1,78 @@
+﻿@using MVC_ShoppingGlasses.ViewModel
+@model List<MVC_ShoppingGlasses.ViewModel.CartItemModel>
+
+
+@if (Model.Count != 0)
+{
+
+    foreach (CartItemModel c in (List<CartItemModel>)Session["ShoppingCart"])
+    {
+        <tr>
+
+            <td> <img src=@c.Product.ImgURL width="50px" height="50px" /></td>
+            <td>@c.Product.Name</td>
+            <td>
+                <input type="text" value=@c.Quantity name="quantity" />
+                @*<button type="button" class="btn-UpdateCart" data-toggle="modal" data-target="#myModal"
+                            onclick="location.href='@Url.Action("UpdateCart", "ShoppingCart", new { id = c.Product.ProductID)'">
+                        Update
+                    </button>*@
+
+                @Html.ValidationMessageFor(Model => c.Quantity)
+
+            </td>
+            <td>@c.Product.Original</td>
+            <td>@c.Product.Price </td>
+            <td>@(c.Quantity * c.Product.Price)</td>
+            <td>
+                <a href="#" class="btn btn-danger btn-circle btn-sm" onclick="location.href='@Url.Action("DeleteCartItem", "ShoppingCart", new { proID = c.Product.ProductID }) '">
+                    <i class="fas fa-trash"></i>
+                </a>
+            </td>
+
+        </tr>
+
+    }
+    <input type="submit" value="update" />
+
+    <a href="#" class="btn btn-secondary btn-icon-split " onclick="location.href='@Url.Action("Register", "Account") '">
+        <span class="icon text-white-50">
+            <i class="fas fa-arrow-right"></i>
+        </span>
+        <span class="text"> Checkout </span>
+    </a>
+}
+else
+{
+    @ViewBag.Empty;
+}
+@*@*<a href="#" class="btn btn-secondary ">
+                    <span class="icon text-white-50">
+                        <i class="fas fa-arrow-right"></i>
+                    </span>
+                    <span class="text"> Update </span>
+                </a>
+                <a href="#" class="btnbtn btn-secondary btn-icon-split" onclick="location.href='@Url.Action("Create", "Checkout") '">
+                    <span class="icon text-white-50">
+                        <i class="fas fa-arrow-right"></i>
+                    </span>
+                    <span class="text"> Checkout </span>
+                </a>
+            </table>
+        </div>
+    }*@
+@*<script>
+        $('.btn-updatecart').on('click', function(){
+        $('#cart').empty();
+        $.ajax({
+            url: '@url.action("updatecart", "shoppingcart")',
+            datatype: 'html',
+            cache: false,
+            async: true,
+            data: { id: , quantity: $('#txtName').val() }
+            success: function(result){
+                $('#yourdiv').append(result);
+            }
+
+    </script>*@
+    </body>

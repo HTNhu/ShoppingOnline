@@ -1,0 +1,1040 @@
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csproj.CoreCompileInputs.cache
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.dll.config
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.pdb
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.exe
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.exe.config
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.rsp
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.exe
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.exe.config
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.rsp
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.AppContext.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Console.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Claims.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.exe
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.exe.config
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.rsp
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Antlr3.Runtime.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.SqlServer.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Newtonsoft.Json.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Helpers.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Mvc.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Optimization.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Razor.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\WebGrease.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.xml
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.SqlServer.xml
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Helpers.xml
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Mvc.xml
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Optimization.xml
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Razor.xml
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.xml
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Newtonsoft.Json.xml
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Antlr3.Runtime.pdb
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csproj.CopyComplete
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.pdb
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Mvc_DAL.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Mvc_DAL.pdb
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Mvc_DAL.dll.config
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csprojAssemblyReference.cache
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Mvc_BLL.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Mvc_Model.dll
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Mvc_BLL.pdb
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Mvc_BLL.dll.config
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Mvc_Model.pdb
+C:\Users\Tran Nhu\Documents\MVC\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Mvc_Model.dll.config
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.dll.config
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.pdb
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.exe
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.exe.config
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.rsp
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.exe
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.exe.config
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.rsp
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.Managed.Core.targets
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.AppContext.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Collections.Immutable.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Console.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Compression.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.FileSystem.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Pipes.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Reflection.Metadata.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.AccessControl.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Claims.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Principal.Windows.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.ValueTuple.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XmlDocument.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XPath.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.exe
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.exe.config
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.rsp
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\VBCSCompiler.exe
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\VBCSCompiler.exe.config
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Antlr3.Runtime.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.SqlServer.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.Web.Infrastructure.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Mvc_BLL.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Mvc_Model.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Newtonsoft.Json.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Diagnostics.DiagnosticSource.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Helpers.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Mvc.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Optimization.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Razor.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Deployment.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Razor.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\WebGrease.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Mvc_DAL.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Mvc_BLL.pdb
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Mvc_BLL.dll.config
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Mvc_Model.pdb
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Mvc_Model.dll.config
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.xml
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.SqlServer.xml
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Helpers.xml
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Mvc.xml
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Optimization.xml
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Razor.xml
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.xml
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Deployment.xml
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Razor.xml
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Newtonsoft.Json.xml
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Antlr3.Runtime.pdb
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Diagnostics.DiagnosticSource.xml
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Mvc_DAL.pdb
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Mvc_DAL.dll.config
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csprojAssemblyReference.cache
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csproj.CoreCompileInputs.cache
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csproj.CopyComplete
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.dll
+H:\C#\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.pdb
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csprojAssemblyReference.cache
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csproj.CoreCompileInputs.cache
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.pdb
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.dll.config
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.pdb
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.exe
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.exe.config
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.rsp
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.exe
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.exe.config
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.rsp
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.AppContext.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Collections.Immutable.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Console.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Compression.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.FileSystem.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Pipes.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Reflection.Metadata.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.AccessControl.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Claims.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.ValueTuple.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XPath.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.exe
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.exe.config
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.rsp
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\VBCSCompiler.exe
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\VBCSCompiler.exe.config
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Antlr3.Runtime.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.SqlServer.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.Web.Infrastructure.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Newtonsoft.Json.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Helpers.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Mvc.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Optimization.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Razor.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Deployment.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Razor.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\WebGrease.dll
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.xml
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.SqlServer.xml
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Helpers.xml
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Mvc.xml
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Optimization.xml
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Razor.xml
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.xml
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Deployment.xml
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Razor.xml
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Newtonsoft.Json.xml
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Antlr3.Runtime.pdb
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Download\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csproj.CopyComplete
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csprojAssemblyReference.cache
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csproj.CoreCompileInputs.cache
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.pdb
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.dll.config
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.pdb
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.exe
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.exe.config
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.rsp
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.exe
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.exe.config
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.rsp
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.Managed.Core.targets
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.AppContext.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Collections.Immutable.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Console.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Compression.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.FileSystem.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Pipes.AccessControl.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Pipes.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Reflection.Metadata.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.AccessControl.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Claims.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Principal.Windows.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.ValueTuple.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XmlDocument.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XPath.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.exe
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.exe.config
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.rsp
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\VBCSCompiler.exe
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\VBCSCompiler.exe.config
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Antlr3.Runtime.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.SqlServer.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.Web.Infrastructure.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Newtonsoft.Json.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Diagnostics.DiagnosticSource.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Helpers.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Mvc.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Optimization.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Razor.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Deployment.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Razor.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\WebGrease.dll
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.xml
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.SqlServer.xml
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Helpers.xml
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Mvc.xml
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Optimization.xml
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Razor.xml
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.xml
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Deployment.xml
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Razor.xml
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Newtonsoft.Json.xml
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Antlr3.Runtime.pdb
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Diagnostics.DiagnosticSource.xml
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\ \New folder\MVC_ShoppingGlasse_19_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csproj.CopyComplete
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.dll.config
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.pdb
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.exe
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.exe.config
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.rsp
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.exe
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.exe.config
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.rsp
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.Managed.Core.targets
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.AppContext.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Collections.Immutable.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Console.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Compression.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.FileSystem.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Pipes.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Reflection.Metadata.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.AccessControl.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Claims.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Principal.Windows.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.ValueTuple.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XmlDocument.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XPath.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.exe
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.exe.config
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.rsp
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\VBCSCompiler.exe
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\VBCSCompiler.exe.config
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Antlr3.Runtime.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.SqlServer.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.Web.Infrastructure.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Newtonsoft.Json.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Diagnostics.DiagnosticSource.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Helpers.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Mvc.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Optimization.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Razor.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Deployment.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Razor.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\WebGrease.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.xml
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.SqlServer.xml
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Helpers.xml
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Mvc.xml
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Optimization.xml
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Razor.xml
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.xml
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Deployment.xml
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Razor.xml
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Newtonsoft.Json.xml
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Antlr3.Runtime.pdb
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Diagnostics.DiagnosticSource.xml
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csprojAssemblyReference.cache
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csproj.CoreCompileInputs.cache
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csproj.CopyComplete
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.dll
+H:\C#\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.pdb
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.dll.config
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.pdb
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.exe
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.exe.config
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.rsp
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.exe
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.exe.config
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.rsp
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.AppContext.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Collections.Immutable.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Console.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Compression.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.FileSystem.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Pipes.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Reflection.Metadata.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.AccessControl.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Claims.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.ValueTuple.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XPath.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.exe
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.exe.config
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.rsp
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\VBCSCompiler.exe
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\VBCSCompiler.exe.config
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Antlr3.Runtime.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.SqlServer.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.Web.Infrastructure.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Newtonsoft.Json.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Helpers.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Mvc.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Optimization.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Razor.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Deployment.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Razor.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\WebGrease.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.xml
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.SqlServer.xml
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Helpers.xml
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Mvc.xml
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Optimization.xml
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Razor.xml
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.xml
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Deployment.xml
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Razor.xml
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Newtonsoft.Json.xml
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Antlr3.Runtime.pdb
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csprojAssemblyReference.cache
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csproj.CoreCompileInputs.cache
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csproj.CopyComplete
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.dll
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.pdb
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.Migrations.addCategory.resources
+D:\Download\MVC_ShoppingGlasse_25_4\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csproj.GenerateResource.cache
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.dll.config
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.pdb
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.exe
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.exe.config
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.rsp
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.exe
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.exe.config
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.rsp
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.Managed.Core.targets
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.AppContext.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Collections.Immutable.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Console.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Compression.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.FileSystem.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Pipes.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Reflection.Metadata.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.AccessControl.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Claims.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Principal.Windows.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.ValueTuple.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XmlDocument.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XPath.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.exe
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.exe.config
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.rsp
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\VBCSCompiler.exe
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\VBCSCompiler.exe.config
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Antlr3.Runtime.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.SqlServer.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.Web.Infrastructure.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Newtonsoft.Json.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Diagnostics.DiagnosticSource.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Helpers.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Mvc.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Optimization.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Razor.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Deployment.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Razor.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\WebGrease.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.xml
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.SqlServer.xml
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Helpers.xml
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Mvc.xml
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Optimization.xml
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Razor.xml
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.xml
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Deployment.xml
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Razor.xml
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Newtonsoft.Json.xml
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Antlr3.Runtime.pdb
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Diagnostics.DiagnosticSource.xml
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.Migrations.addCategory.resources
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csproj.GenerateResource.cache
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csproj.CoreCompileInputs.cache
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csproj.CopyComplete
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.dll
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.pdb
+H:\C#\C#\28_04\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csprojAssemblyReference.cache
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.dll.config
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.pdb
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.exe
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.exe.config
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.rsp
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.exe
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.exe.config
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.rsp
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.AppContext.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Console.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Claims.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.exe
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.exe.config
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.rsp
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Antlr3.Runtime.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.SqlServer.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Newtonsoft.Json.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Helpers.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Mvc.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Optimization.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Razor.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\WebGrease.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.xml
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.SqlServer.xml
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Helpers.xml
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Mvc.xml
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Optimization.xml
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Razor.xml
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.xml
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Newtonsoft.Json.xml
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Antlr3.Runtime.pdb
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csprojAssemblyReference.cache
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.Migrations.addCategory.resources
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csproj.GenerateResource.cache
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csproj.CoreCompileInputs.cache
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csproj.CopyComplete
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.dll
+C:\Users\Tran Nhu\Downloads\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.pdb
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.dll.config
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.pdb
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.exe
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.exe.config
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.rsp
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.exe
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.exe.config
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.rsp
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.Managed.Core.targets
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.AppContext.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Collections.Immutable.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Console.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Compression.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.FileSystem.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Pipes.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Reflection.Metadata.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.AccessControl.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Claims.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Principal.Windows.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.ValueTuple.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XmlDocument.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XPath.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.exe
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.exe.config
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.rsp
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\VBCSCompiler.exe
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\VBCSCompiler.exe.config
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Antlr3.Runtime.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.SqlServer.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.Web.Infrastructure.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Newtonsoft.Json.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Diagnostics.DiagnosticSource.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Helpers.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Mvc.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Optimization.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Razor.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Deployment.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Razor.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\WebGrease.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.xml
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.SqlServer.xml
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Helpers.xml
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Mvc.xml
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Optimization.xml
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Razor.xml
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.xml
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Deployment.xml
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Razor.xml
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Newtonsoft.Json.xml
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Antlr3.Runtime.pdb
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Diagnostics.DiagnosticSource.xml
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csprojAssemblyReference.cache
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.Migrations.addCategory.resources
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csproj.GenerateResource.cache
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csproj.CoreCompileInputs.cache
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csproj.CopyComplete
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.dll
+H:\C#\29_04_GopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.pdb
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.dll.config
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.pdb
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.exe
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.exe.config
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.rsp
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.exe
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.exe.config
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.rsp
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.AppContext.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Console.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Claims.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.exe
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.exe.config
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.rsp
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Antlr3.Runtime.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.SqlServer.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Newtonsoft.Json.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Helpers.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Mvc.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Optimization.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Razor.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\WebGrease.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.xml
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.SqlServer.xml
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Helpers.xml
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Mvc.xml
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Optimization.xml
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Razor.xml
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.xml
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Newtonsoft.Json.xml
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Antlr3.Runtime.pdb
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csprojAssemblyReference.cache
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.Migrations.addCategory.resources
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csproj.GenerateResource.cache
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csproj.CoreCompileInputs.cache
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csproj.CopyComplete
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.dll
+C:\Users\Tran Nhu\Desktop\30_04_NopBai\30_04_NopBai\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.pdb
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.dll.config
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.pdb
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.exe
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.exe.config
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.rsp
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.exe
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.exe.config
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.rsp
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.Managed.Core.targets
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.AppContext.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Collections.Immutable.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Console.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Compression.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.FileSystem.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Pipes.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Reflection.Metadata.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.AccessControl.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Claims.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Principal.Windows.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.ValueTuple.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XmlDocument.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XPath.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.exe
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.exe.config
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.rsp
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\VBCSCompiler.exe
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\VBCSCompiler.exe.config
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Antlr3.Runtime.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.SqlServer.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.Web.Infrastructure.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Newtonsoft.Json.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Diagnostics.DiagnosticSource.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Helpers.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Mvc.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Optimization.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Razor.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Deployment.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Razor.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\WebGrease.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.xml
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.SqlServer.xml
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Helpers.xml
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Mvc.xml
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Optimization.xml
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Razor.xml
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.xml
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Deployment.xml
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Razor.xml
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Newtonsoft.Json.xml
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Antlr3.Runtime.pdb
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Diagnostics.DiagnosticSource.xml
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csprojAssemblyReference.cache
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.Migrations.addCategory.resources
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csproj.GenerateResource.cache
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csproj.CoreCompileInputs.cache
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csproj.CopyComplete
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.dll
+H:\C#\BTL_KienTruc_Final\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.pdb
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.dll.config
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\MVC_ShoppingGlasses.pdb
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.exe
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.exe.config
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csc.rsp
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.exe
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.exe.config
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\csi.rsp
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.AppContext.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Collections.Immutable.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Console.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Compression.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.FileSystem.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.IO.Pipes.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Reflection.Metadata.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.AccessControl.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Claims.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Security.Principal.Windows.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.ValueTuple.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XPath.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.exe
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.exe.config
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\vbc.rsp
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\VBCSCompiler.exe
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\roslyn\VBCSCompiler.exe.config
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Antlr3.Runtime.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.SqlServer.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.Web.Infrastructure.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Newtonsoft.Json.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Diagnostics.DiagnosticSource.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Helpers.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Mvc.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Optimization.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Razor.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Deployment.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Razor.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\WebGrease.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.xml
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\EntityFramework.SqlServer.xml
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Helpers.xml
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Mvc.xml
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Optimization.xml
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.Razor.xml
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.xml
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Deployment.xml
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Web.WebPages.Razor.xml
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Newtonsoft.Json.xml
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Antlr3.Runtime.pdb
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\System.Diagnostics.DiagnosticSource.xml
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csprojAssemblyReference.cache
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.Migrations.addCategory.resources
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csproj.GenerateResource.cache
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csproj.CoreCompileInputs.cache
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.csproj.CopyComplete
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.dll
+D:\BtLon\KTTKPM_DHKTPM12B_BAITAPLON_NHOM06\MVC_ShoppingGlasses\MVC_ShoppingGlasses\obj\Debug\MVC_ShoppingGlasses.pdb

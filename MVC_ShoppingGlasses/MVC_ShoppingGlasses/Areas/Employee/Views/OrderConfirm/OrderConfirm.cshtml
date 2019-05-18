@@ -1,0 +1,90 @@
+﻿
+@{
+    ViewBag.Title = "OrderConfirm";
+}
+@model List<MVC_ShoppingGlasses.Models.Order>
+@using MVC_ShoppingGlasses.ViewModel
+<head>
+    <link href="~Content/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <center><h2>Danh Sach Đơn Hàng Chờ</h2></center>
+    @Styles.Render("~/Content/Style.css")
+    @Scripts.Render("~/bundles/js")
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Merriweather:300,400,400i|Noto+Sans:400,400i,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+</head>
+
+@using (Html.BeginForm("OrderConfirm", "OrderConfirm", FormMethod.Post))
+{
+    <div class="col-sm-3">
+
+    </div>
+    <div class="form">
+        <table class="table table-hover" width="50%">
+            <tr>
+                <th>Id</th>
+                <th>Order Date</th>
+                <th>Name</th>
+                <th>Address</th>
+                <th>State</th>
+                <th>Phone Number</th>
+                <th>Total</th>
+            </tr>
+            @foreach (var order in Model)
+            {
+                var i = order.OrderId;
+                <tr>
+                    <td>@order.OrderId</td>
+                    <td>@order.OrderDate</td>
+                    <td>@order.Name</td>
+                    <td>@order.Address</td>
+                    <td>@order.State</td>
+                    <td>@order.PhoneNumber</td>
+                    <td>@order.Total</td>
+                    <td><a class="search" data-toggle="modal" data-target="#myModal" data-assigned-id="@order.OrderId"><span>Xem</span></a></td>
+                </tr>
+                <!-- Modal -->
+                <div class="modal fade" id="myModal" role="dialog">
+                    <div class="modal-dialog  ">
+
+                        <!-- Modal content-->
+                        <div class="modal-content">
+                            <div class="modal-body">
+                                <center><h2 class="modal-title"> Chi tiết đơn hàng</h2></center>
+                                <div id="partial"></div>
+                            </div>
+                            <div class="modal-footer">
+                                <center>
+                                    <button type="button" class="btn btn-secondary" onclick="location.href=location.href='@Url.Action("ChangeState","OrderConfirm",new {id = order.OrderId})'" style="width:150px">Xác nhận</button>
+                                    <button type="button" class="btn btn-danger" data-dismiss="modal" style="width:150px">Đóng</button>
+                                </center>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </table>
+    </div>
+    <div>
+        <button type="button" class="btn btn-secondary" onclick="location.href='@Url.Action("Index","HomeEmployee")'" style="width:150px">Quay lại</button>
+    </div>
+}
+
+<script type="text/javascript">
+        $(function () {
+            $('.search').click(function () {
+                var id = $(this).data('assigned-id');
+                var route = '@Url.Action("OrderDetail", "OrderConfirm")?id=' + id;
+                $('#partial').load(route);
+            });
+
+        });
+</script>
+
+
+

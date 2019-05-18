@@ -1,0 +1,71 @@
+﻿
+@{
+    ViewBag.Title = "ProductDetail";
+}
+
+@model MVC_ShoppingGlasses.Models.Product
+
+<style>
+b {
+    color: black;
+    font-size:medium;
+}
+pre {
+    font-size:medium;
+}
+</style>
+<body>
+    <h2>Chi tiết sản phẩm</h2>
+    @using (Html.BeginForm("ProductDetail", "Product", FormMethod.Post))
+    {
+    
+        <div class="col-md-5">
+            <img src=@Model.ImgURL.ToString() width="360px" height="320px" />
+        </div>
+        <div class="col-md-5">
+            
+                    <pre><b>Mã sản phẩm   </b> @Model.ProductID</pre>
+                    <pre><b>Tên   </b>@Model.Name</pre>
+                    <pre><b>Giá   </b>@Model.Price VND</pre>
+                    <pre><b>Nước Sản Xuất   </b>@Model.Original</pre>
+                    <pre><b>Tình Trạng   </b>@Model.State</pre>
+                    <pre>@Model.Description</pre>
+            
+                    <center>
+                        @if (Model.State.ToString().Trim() != "Hết hàng")//them dkien neu het hang
+                        {
+                            <a data-toggle="modal" data-target="#myModal" class="btn btn-secondary" style="width:180px;background-color:black">
+                                <span class="text"> Thêm vào giỏ hàng </span>
+                            </a>
+                        }
+                        <a href="#" class="btn btn-secondary" style="width:180px;background-color:black" onclick="location.href='@Url.Action("ShowMyCart","ShoppingCart")'">
+                            <span class="text">Đến giỏ hàng </span>
+                        </a>
+                    </center>
+        </div>
+    }
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" role="dialog">
+        <div class="modal-dialog  ">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-body">
+                  <center><h3>Đã thêm vào giỏ hàng !</h3></center>
+                </div>
+                <div class="modal-footer">
+                    <center>
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="location.href='@Url.Action("AddToCart","ShoppingCart",new {proID = Model.ProductID})'" style="width:150px">OK</button>
+                    </center>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+<script>
+    $(document).ready(function () {
+        $("#btnmua").click(function () {
+            $("#myModal").modal("show");
+        });
+    });
+</script>

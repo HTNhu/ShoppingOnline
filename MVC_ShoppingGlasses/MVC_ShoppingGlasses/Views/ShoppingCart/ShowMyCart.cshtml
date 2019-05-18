@@ -1,0 +1,126 @@
+﻿@using MVC_ShoppingGlasses.ViewModel;
+@model List<MVC_ShoppingGlasses.ViewModel.CartItemModel>
+@{
+    ViewBag.Title = "Index";
+}
+@{
+    ShoppingCartModel sh = new ShoppingCartModel();
+}
+@{ 
+    decimal totalItem = 0;
+}
+
+<h2>Giỏ Hàng</h2>
+
+@using (Html.BeginForm("UpdateCart", "ShoppingCart", FormMethod.Post))
+{
+
+    <div id="cart">
+        <table border="0" width="100%" height="100px">
+            <tr style="column-span">
+                <th>Ảnh</th>
+                <th>Tên sản phẩm</th>
+                <th>Số lượng</th>
+                <th>Giá</th>
+                <th>Nước SX</th>
+                <th>Tổng cộng</th>
+            </tr>
+            @if (Model.Count != 0)
+            {
+                foreach (CartItemModel c in (List<CartItemModel>)Session["ShoppingCart"])
+                {
+                    sh.total += c.Quantity * c.Product.Price;
+                    totalItem = c.Quantity * c.Product.Price;
+            <tr>
+
+                <td> <img src=@c.Product.ImgURL width="50px" height="50px" /></td>
+                <td>@c.Product.Name</td>
+                <td>
+                    <input type="hidden" value=@c.Product.ProductID id="proID" />
+                    <input type="number" value=@c.Quantity id="quantity" name="quantity" min="1" max=@c.Product.Unitinstock />
+                    @Html.ValidationMessageFor(model => c.Quantity)
+                </td>
+                <td>@c.Product.Original</td>
+                <td>@c.Product.Price.ToString("#,##0") VND </td>
+                <td>@totalItem.ToString("#,##0")  VND</td>
+                <td>
+                    <a href="#" class="btn btn-danger btn-circle btn-sm" data-toggle="modal" data-target="#myModal" >
+                        <i class="fas fa-trash"></i>
+                    </a>
+                </td>
+                <div class="modal fade" id="myModal" role="dialog">
+                    <div class="modal-dialog  ">
+
+                        <!-- Modal content-->
+                        <div class="modal-content">
+                            
+                            <div class="modal-body">
+                                <center><h3>Bạn muốn xóa sản phẩm ?</h3></center>
+                            </div>
+                            <div class="modal-footer">
+                                <center>
+                                    <button type="button" class="btn btn-secondary" onclick="location.href=location.href='@Url.Action("DeleteCartItem", "ShoppingCart", new { proID = c.Product.ProductID })'" style="width:150px;background-color:black">Có</button>
+                                    <button type="button" class="btn btn-danger" data-dismiss="modal" style="width:150px">Không</button>
+                                </center>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </tr>
+                }
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <th>Tổng tiền</th>
+                    <td>@sh.total.ToString("#,##0") VND</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="col-md-2">
+                            <input type="submit" class="btn-secondary" style="width:150px ; height:38px; border-radius:5px ; background-color:black ; color:white" value="Cập nhật" />
+                        </div>
+                        @*cap nhat*@
+                    </td>
+                    <td>
+                        <div class="col-md-2">
+                            @if (Session["CustomerSession"] == null)
+                            {
+                                <a href="#" class="btn btn-secondary btn-icon-split " style="width:150px ;background-color:black" onclick="location.href='@Url.Action("Login", "Account") '">
+                                    <span class="text"> Thanh toán </span>
+                                </a>
+                            }
+                            else// da dang nhap hien thi form thanh toan
+                            {
+                                <a href="#" class="btn btn-secondary btn-icon-split " style="width:150px ;background-color:black" onclick="location.href='@Url.Action("Index", "Checkout") '">
+                                    <span class="text"> Thanh toán </span>
+                                </a>
+                            }
+                        </div>
+                    </td>
+                    <td>
+                        <div class="col-md-2">
+                            <a href="#" class="btn btn-secondary btn-icon-split " style="width:150px ;background-color:black" onclick="location.href='@Url.Action("Index", "Product") '">
+                                <span class="text"> Tiếp tục mua hàng</span>
+                            </a>
+                        </div>
+                    </td>
+                </tr>
+            }
+            else
+            {
+                @ViewBag.Empty;
+            }
+        </table>
+
+    </div>
+   
+}
+    <script>
+        $(document).ready(function () {
+            $("#btnmua").click(function () {
+                $("#myModal").modal("show");
+            });
+        });
+    </script>

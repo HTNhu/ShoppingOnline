@@ -1,0 +1,7 @@
+﻿@using MVC_ShoppingGlasses.Models
+@model List<MVC_ShoppingGlasses.Models.Category>
+
+@foreach (Category c in Model)
+{
+    <li class="nav-stacked-li"> <a href="#" onclick="location.href='@Url.Action("ListProductByCategory","Product", new { categoryID = c.CategoryID })'">@c.CategoryName</a> </li>
+}

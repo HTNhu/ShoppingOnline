@@ -1,0 +1,105 @@
+﻿@model MVC_ShoppingGlasses.Models.Product
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+@Styles.Render("~/Content/Style.css")
+@Scripts.Render("~/bundles/modernizr")
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+<link href="https://fonts.googleapis.com/css?family=Merriweather:300,400,400i|Noto+Sans:400,400i,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<div>
+    <div class="col-md-3">
+
+    </div>
+    <div class="col-md-5">
+        <h4>Product</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Category.CategoryName)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Category.CategoryName)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Name)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.ImgURL)
+            </dt>
+
+            <dd>
+                <img src=@Model.ImgURL.TrimEnd() width="50" height="50" />
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Description)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Description)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Price)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Price)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Quantity)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Quantity)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Unitinstock)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Unitinstock)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Original)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Original)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.State)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.State)
+            </dd>
+
+        </dl>
+        <p>
+            @Html.ActionLink("Edit", "Edit", new { id = Model.ProductID }) |
+            @Html.ActionLink("Back to List", "Index")
+        </p>
+    </div>
+
+    
+</div>
+

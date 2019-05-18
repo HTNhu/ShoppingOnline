@@ -1,0 +1,68 @@
+﻿@{
+    ViewBag.Title = "Login";
+}
+@model MVC_ShoppingGlasses.ViewModel.LoginViewModel
+
+@Scripts.Render("~/bundles/js")
+
+<head>
+    <link href="~Content/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+</head>
+
+@using (Html.BeginForm("Login", "Account", FormMethod.Post))
+{
+    <hr />
+
+    <div class="col-sm-4">
+
+    </div>
+
+    <div class="form">
+
+        <table width="40%" border="0">
+
+            <tr>
+                <td>
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.UserName, new { @class = "col-md-5 control-label" })
+                        <div class="col-md-10">
+                            @Html.TextBoxFor(model => model.UserName, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Password, new { @class = "col-md-10 control-label" })
+                        <div class="col-md-10">
+                            @Html.PasswordFor(model => model.Password, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-12">
+
+                        </div>
+                        <div class="col-md-offset-2 col-md-10">
+                            <input type="submit" value="Đăng nhập" class="btn btn-secondary" style="width:100px;background-color:black" />
+
+                            <a href="#" class="btn btn-secondary" onclick="location.href='@Url.Action("Register","Account")'" style="width:100px;background-color:black">
+                                <span class="text"> Đăng ký </span>
+                            </a>
+                        </div>
+                    </div>
+                </td>
+              
+            </tr>
+        </table>
+
+    </div>
+}
+

@@ -1,0 +1,161 @@
+﻿@model MVC_ShoppingGlasses.ViewModel.OrderViewModel
+@using MVC_ShoppingGlasses.ViewModel
+@{
+    ViewBag.Title = "Checkout";
+}
+@Styles.Render("~/Content/css")
+@Scripts.Render("~/bundles/js")
+<script>
+    $(document).ready(function () {
+        $("#btnmua").click(function () {
+            $("#myModal").modal("show");
+        });
+    });
+</script>
+<body>
+    @{
+        decimal totalItem = 0;//thanhtien
+        decimal total = 0;//tong tien
+    }
+    <div>
+
+
+        <table>
+            <tr style="width:40%">
+                <h2>Chi tiết sản phẩm</h2>
+                <div class="col-sm-4">
+                    <table class="table table-hover">
+                        <tr>
+                            <th>ID</th>
+                            <th>Ten Sản Phâme</th>
+                            <th>Đơn giá</th>
+                            <th>Số lượng</th>
+                            <th>Thành tiền</th>
+                        </tr>
+
+                        @foreach (CartItemModel item in (List<CartItemModel>)Session["ShoppingCart"])
+                        {
+                            total += item.Product.Price * item.Quantity;
+                            totalItem = item.Product.Price * item.Quantity;
+                            <tr>
+                                <td>@item.Product.ProductID</td>
+                                <td>@item.Product.Name</td>
+                                <td>@item.Product.Price.ToString("#,##0")</td>
+                                <td>@item.Quantity</td>
+                                <td>@totalItem.ToString("#,##0") VND</td>
+                            </tr>
+                        }
+
+                        <tr>
+                            <td> </td>
+                            <td> </td>
+                            <td></td>
+                            <th>Tổng tiền</th>
+                            <td>@total.ToString("#,##0") VND</td>
+                        </tr>
+
+                    </table>
+                </div>
+
+            </tr>
+
+            @using (Html.BeginForm("Index", "Checkout", FormMethod.Post))
+            {
+                <tr style="width:50%">
+                    <h2>Xác nhận đơn hàng</h2>
+                    <div class="col-sm-3">
+
+                    </div>
+                    <div class="col-sm-6">
+                        <table width="60%" border="0" class="table">
+                            <tr>
+                                <td>
+                                    <div class="form-group">
+                                        <label class="control-label col-md-5">Tên</label>
+                                        <pre>@Html.TextBoxFor(model => model.Name, new { @class = "form-control"})</pre>
+                                    </div>
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td>
+                                    <div class="form-group">
+
+                                        <label class="control-label col-md-5">Số điện thoại</label>
+                                        <pre>@Html.TextBoxFor(model => model.PhoneNumber, new { @class = "form-control"})</pre>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="form-group">
+                                        <label class="control-label col-md-5">Địa chỉ</label>
+                                        <pre>@Html.TextBoxFor(model => model.Address, new { @class = "form-control" })</pre>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="form-group">
+                                        <label class="control-label col-md-5">Ngày lập</label>
+                                        <pre>@Html.TextBoxFor(model => model.OrderDate, new { @class = "form-control" })</pre>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="form-group">
+                                        <label class="control-label col-md-5">Trạng thái </label>
+                                        <pre>@Html.TextBoxFor(model => model.State, new { @class = "form-control" })</pre>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="form-group">
+                                        <label class="control-label col-md-5">Tổng tiền</label>
+                                        <pre>@Html.TextBoxFor(model => model.Total, new { @class = "form-control" })</pre>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="form-group">
+                                        @Html.HiddenFor(model => model.CustomerID, new { @class = "form-control" })
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="form-group">
+                                        <div class="col-md-offset-2 col-md-10">
+                                            <input type="submit" data-toggle="modal" data-target="#myModal" value="Thanh Toán" class="btn btn-secondary" style="width:430px ;height:40px ;background-color:black" />
+                                        </div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </tr>
+            }
+        </table>
+
+    </div>
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" role="dialog">
+        <div class="modal-dialog  ">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-body">
+                    <center><h3>Đã gửi đơn hàng!</h3></center>
+                </div>
+                <div class="modal-footer">
+                    <center>
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal"style="width:150px">OK</button>
+                    </center>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>

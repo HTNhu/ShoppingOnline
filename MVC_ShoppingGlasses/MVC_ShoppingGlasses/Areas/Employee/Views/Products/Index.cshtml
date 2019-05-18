@@ -1,0 +1,116 @@
+﻿@model IEnumerable<MVC_ShoppingGlasses.Models.Product>
+
+@{
+    ViewBag.Title = "Index";
+}
+@Styles.Render("~/Content/Style.css")
+@Scripts.Render("~/bundles/modernizr")
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+<link href="https://fonts.googleapis.com/css?family=Merriweather:300,400,400i|Noto+Sans:400,400i,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+@using (Html.BeginForm("Search", "Products", FormMethod.Post))
+{
+
+    <table>
+        <tr>
+            <div class="form-group">
+                <td>
+
+                    <input type="text" style="width:400px; float:right" name="txtsearch" class="form-control" placeholder="Search">
+
+                </td>
+                <td>
+
+                    <button type="submit" class="btn btn-secondary">Search</button>
+                </td>
+            </div>
+        </tr>
+    </table>
+}
+
+
+
+@using (Html.BeginForm("Index", "Products", FormMethod.Get))
+{
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Category.CategoryName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ImgURL)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Quantity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Unitinstock)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Original)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.State)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Category.CategoryName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    <img src=@item.ImgURL.TrimEnd() width="50" height="50" />
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Quantity)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Unitinstock)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Original)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.State)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.ProductID }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.ProductID }) |
+                </td>
+            </tr>
+        }
+
+
+    </table>
+    <div>
+        <button type="button" class="btn btn-secondary"  onclick="location.href='@Url.Action("Index","HomeEmployee")'" style="width:150px">Quay lại</button>
+    </div>
+}

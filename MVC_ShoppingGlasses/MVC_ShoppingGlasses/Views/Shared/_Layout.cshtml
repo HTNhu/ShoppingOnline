@@ -1,0 +1,152 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/Style.css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Merriweather:300,400,400i|Noto+Sans:400,400i,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body style="background-image:url(../../Images/BACKGROUND1.jpg)">
+    <!--LOGO - Search -->
+    <div class="container">
+        
+        <a href="#" onclick="location.href='@Url.Action("Index","Home")'">
+            <img src="../Images/LOGO.png" />
+        </a>
+    </div>
+    <!--menu ngang-->
+    <div class="row">
+        <nav class="navbar navbar-inverse " data-spy="affix" data-offset-top="197">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="#"></a>
+                </div>
+                <div class="collapse navbar-collapse" id="myNavbar">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown">
+                            <a class="dropdown-toggle danhsach" data-toggle="dropdown" href="#" style="background-color:#1f1f1f" onclick="location.href='@Url.Action("Index","Product")'">Danh Mục Sản Phẩm<span class="caret"></span></a>
+                            <ul class="dropdown-menu" id="menu1">
+                                @{ Html.RenderAction("ListCategory", "Home");}
+                            </ul>
+                        </li>
+                        <li style="color:white">@Html.ActionLink("About", "About", "Home")</li>
+                        <li style="color:white">@Html.ActionLink("Contact", "Contact", "Home")</li>
+
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <a href="#" onclick="location.href='@Url.Action("ShowMyCart","ShoppingCart")'">
+                            @{ Html.RenderAction("MyCart", "Home");}
+                        </a>
+                       
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        @{ Html.RenderAction("MyAcc", "Home");}
+                    </ul>
+                    <ul>
+                        <form class="navbar-form navbar-right" action="/product/search" method="post">
+                            <div class="form-group">
+                                <input type="text"  name="txtsearch" class="form-control" placeholder="Search" >
+                            </div>
+                            <button type="submit" class="btn btn-default" @*onclick="location.href='@Url.Action("Search", "Product")'"*@>Search</button>
+                        </form>
+                    </ul>
+                    
+                </div>
+            </div>
+        </nav>
+    </div>
+    <div class="container body-content" >
+        @RenderBody()
+        <hr />
+    </div>
+    <div class="container-fluid">
+        <footer>
+            <!--footer-->
+            <div class="col-sm-2">
+            </div>
+            <div class="col-sm-9">
+                <div class="col-sm-4">
+                    <span>
+                        <h4>Địa Chỉ</h4>
+                        <h5>
+                            <br />
+                            CN1: 150 Nguyễn Thị Đặng kp2, p.TTH quận 12<br />
+                            <br />
+                            Tổng đài tư vấn - Bán hàng : 1900 1000<br />
+                            <br />
+                            Fax: 04. 62626236<br />
+                            <br />
+                            Email:<span class="lienhe"><a href="https://www.ipolyfood@gmail.com/PolyCake"> matkinh@gmail.com </a></span>
+                            <br />
+                            <br />
+                            Giờ mở cửa: 8h – 17h00 (mở cửa từ t2-t7)<br />
+                            <br />
+                            <br />
+                            CN2: Lầu 2, 155 Tân Kỳ Tân Quý, P. Tân Sơn Nhì, Q. Tân Phú	<br />
+                            <br />
+                            Điện thoại: 02838120222<br />
+                            <br />
+                            Email:<span class="lienhe"><a href="https://www.ipolyfoodtp@gmail.com/PolyCake"> matkinh@gmail.com </a></span>
+                            <br />
+                            <br />
+                            Giờ mở cửa: thứ 2-7 từ 8h – 20h30 , chủ nhật từ 8h – 17h00
+                        </h5>
+                    </span>
+                </div>
+                <div class="col-sm-4">
+                    <h4>Thông Tin</h4>
+                    <h5>
+                        <br />
+                        Cung cấp :
+                        <br />
+                        <br />
+                        Các loại kinh thời trang đẹp thời thượng .
+                        <br />
+                       
+
+                    </h5>
+                </div>
+                <div class="col-sm-4">
+                    <h4>Liên hệ với chúng tôi</h4>
+                    <h5>
+
+                        <br />
+                        <img src="../Images/ins.png" height="40px" width="40px" />
+                        <span class="lienhe"><a href="https://www.instagram.com/matkinh/"> https://www.instagram.com/matkinh </a></span>
+                        <br />
+                        <br />
+                        <img src="../Images/fb.png" height="40px" width="40px" />
+                        <span class="lienhe"><a href="https://www.facebook.com/matkinh/"> https://www.facebook.com/matkinh </a></span>
+                        <br />
+                        <br />
+                        <img src="../Images/twi.png" height="40px" width="40px" />
+                        <span class="lienhe"><a href="https://www.twitter.com/matkinh/"> https://www.twitter.com/matkinh </a></span><br />
+                        <br />
+                        Tổng đài tư vấn - Bán hàng : 1900 1000<br />
+                        <br />
+                        Fax: 04. 62626236<br />
+                    </h5>
+                </div>
+            </div>
+
+            <div class="col-sm-3"></div>
+        </footer>
+    </div>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
